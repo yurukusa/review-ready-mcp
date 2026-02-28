@@ -92,5 +92,6 @@ Also available as:
 - **GitHub Action**: `uses: yurukusa/review-ready@v0.1.0`
 - **VS Code Extension**: Search "Review Ready" in the marketplace
 - **npm library**: `npm install review-ready`
+- **Live demo**: [yurukusa.github.io/vscode-review-ready](https://yurukusa.github.io/vscode-review-ready/)
 
 Source: [github.com/yurukusa/vscode-review-ready](https://github.com/yurukusa/vscode-review-ready)
